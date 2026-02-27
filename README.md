@@ -168,10 +168,11 @@ PUTCHAR_PROTOTYPE
  
 # Setup:
 
-<img width="1180" height="1600" alt="image" src="https://github.com/user-attachments/assets/4e6c3ece-98bb-4de6-a654-88aff28413f6" />
+LED ON:
+<img width="1180" height="1600" alt="image" src="https://github.com/user-attachments/assets/9c680611-4207-4a99-86b2-3d40bd7f1120" />
 
-
- <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/314055ab-6f6a-4ce2-90e3-e9fd55ee6f5f" />
+ LED OFF:
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/f0151ef1-f756-4d08-8718-d80b1749a413" />/>
 
  
  
