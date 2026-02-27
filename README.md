@@ -168,11 +168,11 @@ PUTCHAR_PROTOTYPE
  
 # Setup:
 
-![WhatsApp Image 2026-02-27 at 11 20 01](https://github.com/user-attachments/assets/42f26f13-e281-448c-ac0c-d75aabcb525a)
+<img width="1180" height="1600" alt="image" src="https://github.com/user-attachments/assets/4e6c3ece-98bb-4de6-a654-88aff28413f6" />
 
-![WhatsApp Image 2026-02-27 at 11 20 01 (1)](https://github.com/user-attachments/assets/9fe0c2cd-2102-4788-9627-6e804c0d455a)
 
- 
+ <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/314055ab-6f6a-4ce2-90e3-e9fd55ee6f5f" />
+
  
  
 ## Result :
